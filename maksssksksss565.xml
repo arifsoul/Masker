@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>maksssksksss565.png</filename>
+	<path>/my-project-name/maksssksksss565.png</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>301</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>tanpa_masker</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>94</xmin>
+			<ymin>120</ymin>
+			<xmax>271</xmax>
+			<ymax>326</ymax>
+		</bndbox>
+	</object>
+</annotation>

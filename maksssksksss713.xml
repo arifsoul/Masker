@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>maksssksksss713.png</filename>
+	<path>/my-project-name/maksssksksss713.png</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>289</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bermasker</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>204</xmin>
+			<ymin>10</ymin>
+			<xmax>400</xmax>
+			<ymax>209</ymax>
+		</bndbox>
+	</object>
+</annotation>
